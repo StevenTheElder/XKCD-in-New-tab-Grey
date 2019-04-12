@@ -1,13 +1,16 @@
 h2 {
   font-family: sans-serif;
+  text-align: center
 }
 
 #alt {
   display: block;
   max-width: 600px;
+  text-align: center
 }
 
 .disclaimer {
   margin-top: 1em;
   font-size: 0.85em;
+  text-align: center
 }
