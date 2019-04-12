@@ -1,7 +1,7 @@
 function getRandomPosInt(max) {
   return Math.floor(Math.random() * Math.floor(max)) + 1;
 }
-document.body.style.backgroundColor = "grey";
+document.body.style.backgroundColor = "#4c4c4c";
 function updatePage(xkcd) {
   fetch('https://xkcd.com/' + xkcd + '/info.0.json').then(function(response) {
     response.json().then(function(data) {
