@@ -14,3 +14,8 @@ h2 {
   font-size: 0.85em;
   text-align: center
 }
+
+#a {
+  width: 30%;
+  margin: 0 auto;
+}
